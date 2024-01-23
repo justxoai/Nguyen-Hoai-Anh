@@ -131,12 +131,6 @@ class University:
                         print(f"\nCourse {course_name} not found.")
 
 
-# print("- Information of student: ")
-# University.set_student()
-
-# print("- Information of course: ")
-# University.set_mark()
-
 Short = University()
 
 while True: 
